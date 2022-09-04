@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/AssuredFocusedAnophelesmosquito-max-1mb.gif)]
+![MasterHead](https://thumbs.gfycat.com/AssuredFocusedAnophelesmosquito-max-1mb.gif)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 

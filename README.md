@@ -1,10 +1,10 @@
-[![MasterHead](https://forum.endeavouros.com/uploads/default/original/3X/6/f/6f06b70393b47ce095e166b929eb7731b9e6ac12.gif)](https://github.com/paarth-sharma)
+[![MasterHead] width = "1080"(https://forum.endeavouros.com/uploads/default/original/3X/6/f/6f06b70393b47ce095e166b929eb7731b9e6ac12.gif)](https://github.com/paarth-sharma)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="paarth-sharma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paarth-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="paarth-sharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth-sharma" alt="paarth-sharma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth-sharma" alt="paarth-sharma" /></a> </p>
 
 <img align = "center" src="https://i.pinimg.com/originals/45/2f/07/452f07f136500c1a28699e17b4d28abf.jpg">
 

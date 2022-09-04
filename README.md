@@ -1,4 +1,4 @@
-[![MasterHead] width = "1080"(https://forum.endeavouros.com/uploads/default/original/3X/6/f/6f06b70393b47ce095e166b929eb7731b9e6ac12.gif)](https://github.com/paarth-sharma)
+[![MasterHead](https://thumbs.gfycat.com/PiercingUnitedAnura-mobile.mp4)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 

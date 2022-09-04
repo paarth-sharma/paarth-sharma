@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/AssuredFocusedAnophelesmosquito-max-1mb.gif)
+![MasterHead](https://cdn.linuxfordevices.com/wp-content/uploads/2020/10/Pinging-Google.gif)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,6 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth-sharma" alt="paarth-sharma" /></a> </p>
 
 <img align = "center" src="https://i.pinimg.com/originals/45/2f/07/452f07f136500c1a28699e17b4d28abf.jpg">
+<h3 align="center"><i>Furiously install arch on your system.</i></h3>
 
 - 🔭 I’m currently working on **Personal portfolio**
 

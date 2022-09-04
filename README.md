@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth-sharma" alt="paarth-sharma" /></a> </p>
 
-<img align = "center" src="https://i.pinimg.com/originals/45/2f/07/452f07f136500c1a28699e17b4d28abf.jpg">
+<img align = "center" height = "400" src="https://i.pinimg.com/originals/45/2f/07/452f07f136500c1a28699e17b4d28abf.jpg">
 
 - 🔭 I’m currently working on **Personal portfolio**
 

@@ -30,5 +30,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paarth-sharma&theme=radical)](https://git.io/streak-stats)
 
 [![Elder Reaver's github activity graph](https://activity-graph.herokuapp.com/graph?username=paarth-sharma&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Most Used Languages](https://camo.githubusercontent.com/c7b7fa02fc6f321e739aa1ad3d3c6e6ea02cc88906b80b573be7dd05bf0e9377/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d75746b617273682d31393035266c61796f75743d636f6d706163742662675f636f6c6f723d38302c6339666662662c66666166626426746578745f636f6c6f723d383836663666267469746c655f636f6c6f723d333133353532)

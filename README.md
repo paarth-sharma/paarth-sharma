@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web assembley (Rust)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/paarth-sharma?tab=repositories](https://github.com/paarth-sharma?tab=repositories)
+- 👨‍💻 All of my projects are available at [Elder-Reaver](https://github.com/paarth-sharma?tab=repositories)
 
 - 💬 Ask me about **arch linux ,shell commands, neovim, basic python, java, html, css, vanilla javascript, basic C++**
 

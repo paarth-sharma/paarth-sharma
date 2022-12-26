@@ -29,4 +29,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paarth-sharma&theme=radical)](https://git.io/streak-stats)
 
-[![Elder Reaver's github activity graph](https://activity-graph.herokuapp.com/graph?username=paarth-sharma&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Elder Reaver's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paarth-sharma&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

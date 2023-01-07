@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js, tailwindcss, redux, json, next.js, rust, advanced java**
 
-- 🤝 I’m looking for help with **Web assembley (Rust)**
+- 🤝 I’m looking for help with **Web assembly (Rust)**
 
 - 👨‍💻 All of my projects are available at [Elder-Reaver](https://github.com/paarth-sharma?tab=repositories)
 

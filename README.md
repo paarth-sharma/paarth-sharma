@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.linuxfordevices.com/wp-content/uploads/2020/10/Pinging-Google.gif)
 <h3 align="center"><i>Furiously installs arch on your system.</i></h3>
 
-- 🔭 I’m currently working on ** a Personal portfolio**
+- 🔭 [** a Personal portfolio**](https://paarth-sharma.vercel.app/)
 
 - 🌱 I’m currently learning **react.js, tailwindcss, redux, json, next.js, rust, advanced java**
 
